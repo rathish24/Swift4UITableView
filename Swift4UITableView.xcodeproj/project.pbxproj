@@ -12,6 +12,7 @@
 		BB636946206428D700ACB1FB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB636944206428D700ACB1FB /* Main.storyboard */; };
 		BB636948206428D700ACB1FB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB636947206428D700ACB1FB /* Assets.xcassets */; };
 		BB63694B206428D700ACB1FB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB636949206428D700ACB1FB /* LaunchScreen.storyboard */; };
+		BB63695320642BAD00ACB1FB /* SimpleUITableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB63695220642BAD00ACB1FB /* SimpleUITableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		BB636947206428D700ACB1FB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BB63694A206428D700ACB1FB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BB63694C206428D700ACB1FB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BB63695220642BAD00ACB1FB /* SimpleUITableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleUITableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				BB636940206428D700ACB1FB /* AppDelegate.swift */,
 				BB636942206428D700ACB1FB /* ViewController.swift */,
 				BB636944206428D700ACB1FB /* Main.storyboard */,
+				BB63695220642BAD00ACB1FB /* SimpleUITableViewController.swift */,
 				BB636947206428D700ACB1FB /* Assets.xcassets */,
 				BB636949206428D700ACB1FB /* LaunchScreen.storyboard */,
 				BB63694C206428D700ACB1FB /* Info.plist */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BB63695320642BAD00ACB1FB /* SimpleUITableViewController.swift in Sources */,
 				BB636943206428D700ACB1FB /* ViewController.swift in Sources */,
 				BB636941206428D700ACB1FB /* AppDelegate.swift in Sources */,
 			);
